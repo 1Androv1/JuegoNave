@@ -1,7 +1,7 @@
 from game.components.game import Game
 
 """
-    INICIALIZACION DE TODO EL JUEGO
+    INICIALIZACION DEL JUEGO
 """
 
 if __name__ == "__main__":
